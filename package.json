@@ -1,0 +1,24 @@
+{
+  "name": "dataviz-d3js",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/josdirksen/d3dv",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.2.2",
+    "image-downloader": "^2.0.0",
+    "lodash": "^4.16.4",
+    "nodemon": "^1.19.2",
+    "srt": "0.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2",
+    "cheerio": "^0.22.0",
+    "yql": "^1.0.2"
+  }
+}
